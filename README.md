@@ -21,5 +21,8 @@ I am Md. Mehedi Hasan, an enthusiastic and diligent  Full Stack web developer fr
 <a target="_blank" href="mailto:mehedi.cse14bu@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
  </a>
- <a href="www.linkedin.com/in/mehedi-hasan-772a761b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/mehedi-hasan-772a761b5" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/mehedi-hasan-772a761b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/mehedi-hasan-772a761b5" height="30" width="40" /></a>
       <a href="https://www.facebook.com/profile.php?id=100007440552913" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shakil.islam.543" height="30" width="40" /></a>
+<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan925&theme=dark&show_icons=true" /></p>
+
